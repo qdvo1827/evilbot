@@ -974,3 +974,4 @@ d.arcTo=function(){};d.createPattern=function(a,b){return new I(a,b)};w.prototyp
 /*tslint:enable*/
 /*eslint-enable*/
 /*jshint ignore:end*/
+
