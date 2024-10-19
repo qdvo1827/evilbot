@@ -31,3 +31,4 @@ chrome.webNavigation.onCompleted.addListener((details) => {
   url: targetSites.map(host => ({ hostEquals: host }))
 });
 
+
